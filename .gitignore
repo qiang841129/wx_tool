@@ -3,6 +3,7 @@ pids
 *.pid
 *.seed
 *.pid.lock
+*.pkl
 
 .idea/*
 

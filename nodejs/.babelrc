@@ -1,0 +1,9 @@
+{
+    "plugins": [
+      //"syntax-flow",
+      //"transform-flow-strip-types",
+      //"transform-class-properties",
+      //"transform-object-rest-spread"
+    ],
+    "presets": ["env"]
+}
